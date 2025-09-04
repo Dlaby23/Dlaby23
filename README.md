@@ -1,5 +1,5 @@
 # Hey my name is Dlaby
-I am a 20-year-old full-stack developer, trader, and entrepreneur with international experience and a strong focus on technology, markets, and long-term growth. My background spans software development, artificial intelligence, and financial trading, allowing me to combine technical expertise with strategic decision-making.
+I am a 20-year-old full-stack developer, trader, and entrepreneur with international experience and a strong focus on technology, markets, and long-term growth. My background spans software development, artificial intelligence, and financial trading, allowing me to combine technical expertise with strategic decision-making. more here https://www.dlaby.com
 
 
 ## Socials:
